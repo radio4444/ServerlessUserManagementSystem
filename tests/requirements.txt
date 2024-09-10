@@ -1,0 +1,11 @@
+marshmallow
+pycparser
+pyjwt
+pymango
+requests
+six
+ujson
+urllib3
+pytest
+argon2-cffi
+dnspython
